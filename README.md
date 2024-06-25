@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ionleu/ionleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Salut! I'm John!
 
-Here are some ideas to get you started:
+I'm Ion Leu, my friends call me John. Building on nights and weekends:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://fractional.engineer → Web Development Partner
+- https://usepicky.com → Home Inspection Platform
+- https://ahhdaily.com → Grocery Delivery (for sale)
+
+
+## Quick introduce
+I'm Sr. Frontend Engineer with 12+ years in web development, including 5 years leading teams and 6 years in React. Experienced in building responsive websites, ERP, CRM, and SPA apps, with expertise in finance, healthcare, and real estate.
+
+
+## Contacts
+You can DM on [X (formally Twitter)](https://linkedin.com/in/ionleu) or [LinkedIn](https://linkedin.com/in/ionleu) for any advice or informations.
+You can also contact me by email on ask@linoagency.com
+
