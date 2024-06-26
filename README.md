@@ -1,9 +1,10 @@
 
-## Salut! I'm John!
+## Salut!
 
 I'm Ion Leu, my friends call me John. Building on nights and weekends:
 
 - https://fractional.engineer → Web Development Partner
+- https://automatify.us → Automation Testing Partner
 - https://usepicky.com → Home Inspection Platform
 - https://ahhdaily.com → Grocery Delivery (for sale)
 
@@ -16,3 +17,4 @@ I'm Sr. Frontend Engineer with 12+ years in web development, including 5 years l
 You can DM on [X (formally Twitter)](https://linkedin.com/in/ionleu) or [LinkedIn](https://linkedin.com/in/ionleu) for any advice or informations.
 You can also contact me by email on ask@linoagency.com
 
+`web development` • `mobile development` • `automation testing`
