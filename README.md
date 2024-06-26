@@ -14,7 +14,8 @@ I'm Sr. Frontend Engineer with 12+ years in web development, including 5 years l
 
 
 ## Contacts
-You can DM on [X (formally Twitter)](https://linkedin.com/in/ionleu) or [LinkedIn](https://linkedin.com/in/ionleu) for any advice or informations.
+You can DM on [X (formally Twitter)](https://x.com/ionleu) or [LinkedIn](https://linkedin.com/in/ionleu) for any advice or informations.
 You can also contact me by email on ask@linoagency.com
 
 `web development` • `mobile development` • `automation testing`
+`react` - `next.js` - `javascript` - `typescript` - `node.js` - `react-native` - `playwright` - `cypress`
