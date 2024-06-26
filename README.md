@@ -18,4 +18,5 @@ You can DM on [X (formally Twitter)](https://x.com/ionleu) or [LinkedIn](https:/
 You can also contact me by email on ask@linoagency.com
 
 `web development` • `mobile development` • `automation testing`
+
 `react` - `next.js` - `javascript` - `typescript` - `node.js` - `react-native` - `playwright` - `cypress`
