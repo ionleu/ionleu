@@ -3,6 +3,7 @@
 
 I'm Ion Leu, my friends call me John. Building on nights and weekends:
 
+- https://brie.io → Bug Reports that Developers Love
 - https://fractional.engineer → Web Development Partner
 - https://automatify.us → Automation Testing Partner
 - https://usepicky.com → Home Inspection Platform
@@ -14,7 +15,7 @@ I'm Sr. Frontend Engineer with 12+ years in web development, including 5 years l
 
 
 ## Contacts
-You can DM on [X (formally Twitter)](https://x.com/ionleu) or [LinkedIn](https://linkedin.com/in/ionleu) for any advice or informations.
+You can DM on [X (formally Twitter)](https://x.com/intent/follow?screen_name=ionleu) or [LinkedIn](https://linkedin.com/in/ionleu) for any advice or informations.
 You can also contact me by email on ask@linoagency.com
 
 `web development` • `mobile development` • `automation testing`
