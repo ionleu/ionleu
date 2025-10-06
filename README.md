@@ -6,7 +6,6 @@ I'm Ion Leu, my friends call me John. Building on nights and weekends:
 - https://brie.io → Bug Reports that Developers Love
 - https://fractional.engineer → Web Development Partner
 - https://automatify.us → Automation Testing Partner
-- https://usepicky.com → Home Inspection Platform
 - https://ahhdaily.com → Grocery Delivery (for sale)
 
 
